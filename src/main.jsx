@@ -5,7 +5,7 @@ import './index.css'
 import { GoogleOAuthProvider } from "@react-oauth/google"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <GoogleOAuthProvider clientId='1009282809407-sh8h2kgmot2q295a503sl5530pldnaj9.apps.googleusercontent.com'>
+  <GoogleOAuthProvider clientId='56288179142-a9ngohokvhcvkti27hoo0bj7i7ga6pj1.apps.googleusercontent.com'>
     <React.StrictMode>
       <App />
     </React.StrictMode>,
